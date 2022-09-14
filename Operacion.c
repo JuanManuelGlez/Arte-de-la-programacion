@@ -1,15 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-<<<<<<< HEAD
-=======
-int suma(int a, int b){
- return a+b;
-}
-int resta(int a, int b){
- return a-b;
-}
->>>>>>> A01562528
+
 int main(){
 int num1 = 12;
 int num2 = 3;
